@@ -1,0 +1,30 @@
+.usei{
+    background-color: rgb(243, 4, 4);
+}
+.blank{
+    margin-top: 100px;
+    margin-left:535px;
+}
+.izet{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 5, 255);
+}
+.cena{
+    background-color: aqua;
+    color: rgb(255, 5, 255);
+}
+.fafa{
+    background-color: rgb(17, 180, 255);
+    color: rgb(22, 226, 66);
+}
+.blank2{
+    margin-left: 670px;
+    width: 350px;
+    height: 500px;
+}
+.vk{
+    color: red;
+}
+.svaz{
+    background-color: aliceblue;
+}
